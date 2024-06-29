@@ -1,4 +1,4 @@
-# AHK-Dumper
+# AHK_Dumper
 **Dumper for compiled AutoHotKey Scripts**
 
 This tool will dump the original ahk script from a compiled ahk executable.
