@@ -7,7 +7,7 @@ This tool will dump the original ahk script from a compiled ahk executable.
 
 Via commandline arguments:
 
-    AHKDumper.exe <file>
+    AHK_Dumper.exe <file>
 
 Make sure to restore the NuGet packages before compiling.
 
